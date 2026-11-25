@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mww1w3x4f3mfs",
+    "name": "Chetan",
+    "email": "chetandubey@gmail.com",
+    "role": "Developer",
+    "department": "Engineering",
+    "status": "Active",
+    "phone": "9874572089",
+    "location": "GZB",
+    "joinedAt": "2026-11-25"
+  },
+  {
+    "id": "emp001",
+    "name": "Aashi Mishra",
+    "email": "mishraaashi@peoplehub.com",
+    "role": "Senior Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "phone": "+1 555 0101",
+    "location": "Bareilley",
+    "joinedAt": "2023-02-14"
+  },
+  {
+    "id": "emp002",
+    "name": "Manish Singh",
+    "email": "Manishsingh@peoplehub.com",
+    "role": "Product Designer",
+    "department": "Design",
+    "status": "Active",
+    "phone": "+1 555 0102",
+    "location": "Pune",
+    "joinedAt": "2023-05-22"
+  },
+  {
+    "id": "emp003",
+    "name": "Oliv",
+    "email": "oliv@peoplehub.com",
+    "role": "Marketing Manager",
+    "department": "Marketing",
+    "status": "On Leave",
+    "phone": "+1 555 0103",
+    "location": "Hyderabad",
+    "joinedAt": "2022-09-08"
+  },
+  {
+    "id": "emp004",
+    "name": "Deepak singh",
+    "email": "deepaksingh@peoplehub.com",
+    "role": "Sales Executive",
+    "department": "Sales",
+    "status": "Active",
+    "phone": "+1 555 0104",
+    "location": "Delhi",
+    "joinedAt": "2024-01-16"
+  },
+  {
+    "id": "emp005",
+    "name": "Abhinav pratap",
+    "email": "Abhinavpratap@peoplehub.com",
+    "role": "HR Specialist",
+    "department": "Human Resources",
+    "status": "Inactive",
+    "phone": "+1 555 0105",
+    "location": "Laxmi Nagar",
+    "joinedAt": "2021-11-30"
+  }
+]
